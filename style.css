@@ -134,7 +134,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(image/image2.jpg) no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/image/image2.jpg) no-repeat center center/cover;
 }
 
 .homediv {
@@ -200,7 +200,7 @@ body {
     align-items: center;
     text-align: center;
     margin-top: 0;
-    background: linear-gradient(rgba(43, 42, 42, 0.75), rgba(30, 29, 29, 0.75)), url(image/image3.jpg) no-repeat center center/cover;
+    background: linear-gradient(rgba(43, 42, 42, 0.75), rgba(30, 29, 29, 0.75)), url(/image/image3.jpg) no-repeat center center/cover;
 }
 
 .pheading h2 {
